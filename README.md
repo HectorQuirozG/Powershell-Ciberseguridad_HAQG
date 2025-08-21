@@ -9,5 +9,5 @@ La mayoría de los archivos están pensados para descargarse y ejecutarse direct
 - Scripts de práctica independientes.
 - `E6/` → Contiene un **módulo de PowerShell** (`.psm1`) junto con su **manifiesto** (`.psd1`).
 
-#Creador del repositorio
+# Creador del repositorio
 Héctor Adrián Quiroz González
